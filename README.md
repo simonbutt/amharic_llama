@@ -19,12 +19,12 @@ Unless otherwise stated, notebooks through [Google Colab](https://colab.research
 
 - [ ] Fine tune various SOA english LLMs on Amharic translated datasets to provide a set of control models.
     - [x] Alpaca - [Model](https://huggingface.co/simonbutt/am_llama3_alpaca), [Dataset](https://huggingface.co/datasets/iocuydi/amharic-alpaca)
-    - [] OpenOrca 
-    - [] Textbooks
+    - OpenOrca 
+    - Textbooks
 - [ ] Develop an open Amharic LLM Leaderboard for model evaluation
-    - [] Translate Evaluation Datasets - [Amharic GSM8K](https://huggingface.co/datasets/simonbutt/amharic_gsm8k), [Amharic TruthfulQA](https://huggingface.co/datasets/simonbutt/amharic_truthful_qa), ARC, HellaSwag, MMLU, Winogrande
-    - [] Create [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) tasks for each translated dataset
-    - [] Create an Amharic LLM leaderboard to visualise all existing model capabilities.
+    - Translate Evaluation Datasets - [Amharic GSM8K](https://huggingface.co/datasets/simonbutt/amharic_gsm8k), [Amharic TruthfulQA](https://huggingface.co/datasets/simonbutt/amharic_truthful_qa), ARC, HellaSwag, MMLU, Winogrande
+    - Create [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) tasks for each translated dataset
+    - Create an Amharic LLM leaderboard to visualise all existing model capabilities.
     
 ## Phase 2 - Train
 **Objective**: Use EEVE vocabulary expansion to train the SOA Amharic language model.
