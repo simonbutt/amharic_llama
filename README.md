@@ -14,7 +14,7 @@ Unless otherwise stated, notebooks through [Google Colab](https://colab.research
 
 ## Process
 
-## Phase 1 - Evaluate 
+### Phase 1 - Evaluate 
 **Objective**: Understand the current SOA in Amharic 
 
 - [ ] Fine tune various SOA english LLMs on Amharic translated datasets to provide a set of control models.
@@ -26,5 +26,5 @@ Unless otherwise stated, notebooks through [Google Colab](https://colab.research
     - Create [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) tasks for each translated dataset
     - Create an Amharic LLM leaderboard to visualise all existing model capabilities.
     
-## Phase 2 - Train
+### Phase 2 - Train
 **Objective**: Use EEVE vocabulary expansion to train the SOA Amharic language model.
